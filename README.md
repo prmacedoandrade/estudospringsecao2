@@ -1,1 +1,1 @@
-Project used to explore IntelliJ IDE, is not a spring study project.
+Project used to explore IntelliJ IDE, this is not a spring study project.
